@@ -1,11 +1,11 @@
 {
-  "name": "react-scroll",
-  "version": "1.9.3",
+  "name": "@kioschool/react-scroll",
+  "version": "1.0.0",
   "description": "A scroll component for React.js",
   "main": "modules",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fisshy/react-scroll.git"
+    "url": "git+https://github.com/KioSchool/react-scroll.git"
   },
   "scripts": {
     "examples": "webpack-dev-server --config examples/webpack.config.js --no-info --content-base examples",
@@ -15,12 +15,13 @@
     "test": "karma start",
     "start": "npm run examples"
   },
-  "homepage": "https://github.com/fisshy/react-scroll",
+  "homepage": "https://github.com/KioSchool/react-scroll",
   "bugs": {
-    "url": "https://github.com/fisshy/react-scroll/issues"
+    "url": "https://github.com/KioSchool/react-scroll/issues"
   },
   "authors": [
-    "Joachim Karlsson"
+    "Joachim Karlsson",
+    "Ji-In Park"
   ],
   "license": "MIT",
   "tags": [
